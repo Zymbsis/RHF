@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/RHF/static/css/main.7acaea2f.css",
+    "main.js": "/RHF/static/js/main.e64006c2.js",
+    "index.html": "/RHF/index.html",
+    "main.7acaea2f.css.map": "/RHF/static/css/main.7acaea2f.css.map",
+    "main.e64006c2.js.map": "/RHF/static/js/main.e64006c2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.e64006c2.js"
+  ]
+}
